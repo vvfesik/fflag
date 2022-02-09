@@ -1,0 +1,21 @@
+{
+  "features": {
+    "general": "general",
+    "general.case-management": "case management",
+    "general.map-timeline": "map timeline",
+    "general.views-briefings": "views and briefings",
+    "general.notifications": "notifications",
+    "general.mass-commincations": "mass commincations",
+    "general.traffic-cameras": "traffic cameras",
+    "settings": "settings",
+    "settings.audit-log": "audit log",
+    "settings.users": "users",
+    "settings.users.users-add": "users add",
+    "settings.users.user-delete": "user delete",
+    "settings.users.users-edit": "users edit",
+    "settings.users.max-users": "max users",
+    "alerts": "alerts",
+    "alerts.alert-manager": "alert manager",
+    "alerts.alert-rules": "alert rules"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "features": {
+    "general.case-management": true,
+    "general.map-timeline": false,
+    "general.views-briefings": true,
+    "general.notifications": true,
+    "general.mass-commincations": true,
+    "general.traffic-cameras": true,
+    "settings.audit-log": true,
+    "settings.users.users-add": false,
+    "settings.users.user-delete": false,
+    "settings.users.users-edit": false,
+    "settings.users.max-users": 10,
+    "alerts.alert-manager": true,
+    "alerts.alert-rules": 10
+  },
+  "options": {
+    "settings.users.max-users": [10, 20, 50, 100],
+    "alerts.alert-rules": [10, 20, 30]
+  }
+}
